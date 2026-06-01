@@ -1,0 +1,15 @@
+C:\Users\bhautik.ranpara\source\repos\DesignPattern\EmployeeManagement\EmployeeManagement.DAL\bin\Debug\net10.0\EmployeeManagement.DAL.deps.json
+C:\Users\bhautik.ranpara\source\repos\DesignPattern\EmployeeManagement\EmployeeManagement.DAL\bin\Debug\net10.0\EmployeeManagement.DAL.runtimeconfig.json
+C:\Users\bhautik.ranpara\source\repos\DesignPattern\EmployeeManagement\EmployeeManagement.DAL\bin\Debug\net10.0\EmployeeManagement.DAL.dll
+C:\Users\bhautik.ranpara\source\repos\DesignPattern\EmployeeManagement\EmployeeManagement.DAL\bin\Debug\net10.0\EmployeeManagement.DAL.pdb
+C:\Users\bhautik.ranpara\source\repos\DesignPattern\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\net10.0\EmployeeManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\bhautik.ranpara\source\repos\DesignPattern\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\net10.0\EmployeeManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhautik.ranpara\source\repos\DesignPattern\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\net10.0\EmployeeManagement.DAL.AssemblyInfoInputs.cache
+C:\Users\bhautik.ranpara\source\repos\DesignPattern\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\net10.0\EmployeeManagement.DAL.AssemblyInfo.cs
+C:\Users\bhautik.ranpara\source\repos\DesignPattern\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\net10.0\EmployeeManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\bhautik.ranpara\source\repos\DesignPattern\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\net10.0\EmployeeManagement.DAL.sourcelink.json
+C:\Users\bhautik.ranpara\source\repos\DesignPattern\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\net10.0\EmployeeManagement.DAL.dll
+C:\Users\bhautik.ranpara\source\repos\DesignPattern\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\net10.0\refint\EmployeeManagement.DAL.dll
+C:\Users\bhautik.ranpara\source\repos\DesignPattern\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\net10.0\EmployeeManagement.DAL.pdb
+C:\Users\bhautik.ranpara\source\repos\DesignPattern\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\net10.0\EmployeeManagement.DAL.genruntimeconfig.cache
+C:\Users\bhautik.ranpara\source\repos\DesignPattern\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\net10.0\ref\EmployeeManagement.DAL.dll

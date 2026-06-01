@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="EmployeeManagement.API/EmployeeManagement.API.csproj" />
+  <Project Path="EmployeeManagement.DAL/EmployeeManagement.DAL.csproj" />
+  <Project Path="EmployeeManamgement.Xunit.Test/EmployeeManamgement.Xunit.Test.csproj" />
+</Solution>
