@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\bhautik.ranpara\\source\\repos\\DesignPattern\\EmployeeManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA5473CC-CD5B-7F43-9328-7FE5A75572F8}|EmployeeManamgement.Xunit.Test\\EmployeeManamgement.Xunit.Test.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\designpattern\\employeemanagement\\employeemanamgement.xunit.test\\services\\employeeservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA5473CC-CD5B-7F43-9328-7FE5A75572F8}|EmployeeManamgement.Xunit.Test\\EmployeeManamgement.Xunit.Test.csproj|solutionrelative:employeemanamgement.xunit.test\\services\\employeeservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF45F1ED-3935-46C0-6F5E-DA0614DFD360}|EmployeeManagement.DAL\\EmployeeManagement.DAL.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\designpattern\\employeemanagement\\employeemanagement.dal\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF45F1ED-3935-46C0-6F5E-DA0614DFD360}|EmployeeManagement.DAL\\EmployeeManagement.DAL.csproj|solutionrelative:employeemanagement.dal\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6079341-48B4-8009-5517-5C74911DE5EC}|EmployeeManagement.API\\EmployeeManagement.API.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\designpattern\\employeemanagement\\employeemanagement.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A6079341-48B4-8009-5517-5C74911DE5EC}|EmployeeManagement.API\\EmployeeManagement.API.csproj|solutionrelative:employeemanagement.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6079341-48B4-8009-5517-5C74911DE5EC}|EmployeeManagement.API\\EmployeeManagement.API.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\designpattern\\employeemanagement\\employeemanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6079341-48B4-8009-5517-5C74911DE5EC}|EmployeeManagement.API\\EmployeeManagement.API.csproj|solutionrelative:employeemanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6079341-48B4-8009-5517-5C74911DE5EC}|EmployeeManagement.API\\EmployeeManagement.API.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\designpattern\\employeemanagement\\employeemanagement.api\\employeemanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A6079341-48B4-8009-5517-5C74911DE5EC}|EmployeeManagement.API\\EmployeeManagement.API.csproj|solutionrelative:employeemanagement.api\\employeemanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6079341-48B4-8009-5517-5C74911DE5EC}|EmployeeManagement.API\\EmployeeManagement.API.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\designpattern\\employeemanagement\\employeemanagement.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6079341-48B4-8009-5517-5C74911DE5EC}|EmployeeManagement.API\\EmployeeManagement.API.csproj|solutionrelative:employeemanagement.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF45F1ED-3935-46C0-6F5E-DA0614DFD360}|EmployeeManagement.DAL\\EmployeeManagement.DAL.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\designpattern\\employeemanagement\\employeemanagement.dal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF45F1ED-3935-46C0-6F5E-DA0614DFD360}|EmployeeManagement.DAL\\EmployeeManagement.DAL.csproj|solutionrelative:employeemanagement.dal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF45F1ED-3935-46C0-6F5E-DA0614DFD360}|EmployeeManagement.DAL\\EmployeeManagement.DAL.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\designpattern\\employeemanagement\\employeemanagement.dal\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF45F1ED-3935-46C0-6F5E-DA0614DFD360}|EmployeeManagement.DAL\\EmployeeManagement.DAL.csproj|solutionrelative:employeemanagement.dal\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF45F1ED-3935-46C0-6F5E-DA0614DFD360}|EmployeeManagement.DAL\\EmployeeManagement.DAL.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\designpattern\\employeemanagement\\employeemanagement.dal\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF45F1ED-3935-46C0-6F5E-DA0614DFD360}|EmployeeManagement.DAL\\EmployeeManagement.DAL.csproj|solutionrelative:employeemanagement.dal\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF45F1ED-3935-46C0-6F5E-DA0614DFD360}|EmployeeManagement.DAL\\EmployeeManagement.DAL.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\designpattern\\employeemanagement\\employeemanagement.dal\\services\\iemployeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF45F1ED-3935-46C0-6F5E-DA0614DFD360}|EmployeeManagement.DAL\\EmployeeManagement.DAL.csproj|solutionrelative:employeemanagement.dal\\services\\iemployeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF45F1ED-3935-46C0-6F5E-DA0614DFD360}|EmployeeManagement.DAL\\EmployeeManagement.DAL.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\designpattern\\employeemanagement\\employeemanagement.dal\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,36 +47,8 @@
       "RelativeMoniker": "D:0:0:{A0728DE8-F7DE-4F8F-8063-31446398EF86}|EmployeeManagement.Nunit.Test\\EmployeeManagement.Nunit.Test.csproj|solutionrelative:employeemanagement.nunit.test\\service\\employeeservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF45F1ED-3935-46C0-6F5E-DA0614DFD360}|EmployeeManagement.DAL\\EmployeeManagement.DAL.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\designpattern\\employeemanagement\\employeemanagement.dal\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF45F1ED-3935-46C0-6F5E-DA0614DFD360}|EmployeeManagement.DAL\\EmployeeManagement.DAL.csproj|solutionrelative:employeemanagement.dal\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF45F1ED-3935-46C0-6F5E-DA0614DFD360}|EmployeeManagement.DAL\\EmployeeManagement.DAL.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\designpattern\\employeemanagement\\employeemanagement.dal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF45F1ED-3935-46C0-6F5E-DA0614DFD360}|EmployeeManagement.DAL\\EmployeeManagement.DAL.csproj|solutionrelative:employeemanagement.dal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6079341-48B4-8009-5517-5C74911DE5EC}|EmployeeManagement.API\\EmployeeManagement.API.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\designpattern\\employeemanagement\\employeemanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6079341-48B4-8009-5517-5C74911DE5EC}|EmployeeManagement.API\\EmployeeManagement.API.csproj|solutionrelative:employeemanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6079341-48B4-8009-5517-5C74911DE5EC}|EmployeeManagement.API\\EmployeeManagement.API.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\designpattern\\employeemanagement\\employeemanagement.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6079341-48B4-8009-5517-5C74911DE5EC}|EmployeeManagement.API\\EmployeeManagement.API.csproj|solutionrelative:employeemanagement.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF45F1ED-3935-46C0-6F5E-DA0614DFD360}|EmployeeManagement.DAL\\EmployeeManagement.DAL.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\designpattern\\employeemanagement\\employeemanagement.dal\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF45F1ED-3935-46C0-6F5E-DA0614DFD360}|EmployeeManagement.DAL\\EmployeeManagement.DAL.csproj|solutionrelative:employeemanagement.dal\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF45F1ED-3935-46C0-6F5E-DA0614DFD360}|EmployeeManagement.DAL\\EmployeeManagement.DAL.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\designpattern\\employeemanagement\\employeemanagement.dal\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF45F1ED-3935-46C0-6F5E-DA0614DFD360}|EmployeeManagement.DAL\\EmployeeManagement.DAL.csproj|solutionrelative:employeemanagement.dal\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6079341-48B4-8009-5517-5C74911DE5EC}|EmployeeManagement.API\\EmployeeManagement.API.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\designpattern\\employeemanagement\\employeemanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A6079341-48B4-8009-5517-5C74911DE5EC}|EmployeeManagement.API\\EmployeeManagement.API.csproj|solutionrelative:employeemanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF45F1ED-3935-46C0-6F5E-DA0614DFD360}|EmployeeManagement.DAL\\EmployeeManagement.DAL.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\designpattern\\employeemanagement\\employeemanagement.dal\\services\\iemployeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF45F1ED-3935-46C0-6F5E-DA0614DFD360}|EmployeeManagement.DAL\\EmployeeManagement.DAL.csproj|solutionrelative:employeemanagement.dal\\services\\iemployeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA5473CC-CD5B-7F43-9328-7FE5A75572F8}|EmployeeManamgement.Xunit.Test\\EmployeeManamgement.Xunit.Test.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\designpattern\\employeemanagement\\employeemanamgement.xunit.test\\services\\employeeservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA5473CC-CD5B-7F43-9328-7FE5A75572F8}|EmployeeManamgement.Xunit.Test\\EmployeeManamgement.Xunit.Test.csproj|solutionrelative:employeemanamgement.xunit.test\\services\\employeeservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,63 +58,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EmployeeServiceTest.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\DesignPattern\\EmployeeManagement\\EmployeeManagement.Nunit.Test\\Service\\EmployeeServiceTest.cs",
-              "RelativeDocumentMoniker": "EmployeeManagement.Nunit.Test\\Service\\EmployeeServiceTest.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\DesignPattern\\EmployeeManagement\\EmployeeManagement.Nunit.Test\\Service\\EmployeeServiceTest.cs",
-              "RelativeToolTip": "EmployeeManagement.Nunit.Test\\Service\\EmployeeServiceTest.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAowD0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T04:51:13.233Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmployeeServiceTest.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\DesignPattern\\EmployeeManagement\\EmployeeManamgement.Xunit.Test\\Services\\EmployeeServiceTest.cs",
-              "RelativeDocumentMoniker": "EmployeeManamgement.Xunit.Test\\Services\\EmployeeServiceTest.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\DesignPattern\\EmployeeManagement\\EmployeeManamgement.Xunit.Test\\Services\\EmployeeServiceTest.cs",
-              "RelativeToolTip": "EmployeeManamgement.Xunit.Test\\Services\\EmployeeServiceTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-01T13:13:23.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\DesignPattern\\EmployeeManagement\\EmployeeManagement.API\\Program.cs",
-              "RelativeDocumentMoniker": "EmployeeManagement.API\\Program.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\DesignPattern\\EmployeeManagement\\EmployeeManagement.API\\Program.cs",
-              "RelativeToolTip": "EmployeeManagement.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-01T12:12:59.106Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\DesignPattern\\EmployeeManagement\\EmployeeManagement.DAL\\Services\\EmployeeService.cs",
-              "RelativeDocumentMoniker": "EmployeeManagement.DAL\\Services\\EmployeeService.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\DesignPattern\\EmployeeManagement\\EmployeeManagement.DAL\\Services\\EmployeeService.cs",
-              "RelativeToolTip": "EmployeeManagement.DAL\\Services\\EmployeeService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-01T12:06:24.754Z",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\DesignPattern\\EmployeeManagement\\EmployeeManagement.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EmployeeManagement.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\DesignPattern\\EmployeeManagement\\EmployeeManagement.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EmployeeManagement.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-02T09:12:45.829Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\DesignPattern\\EmployeeManagement\\EmployeeManagement.API\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.API\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\DesignPattern\\EmployeeManagement\\EmployeeManagement.API\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeManagement.API\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T08:45:04.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\DesignPattern\\EmployeeManagement\\EmployeeManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.API\\Program.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\DesignPattern\\EmployeeManagement\\EmployeeManagement.API\\Program.cs",
+              "RelativeToolTip": "EmployeeManagement.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T08:44:56.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\DesignPattern\\EmployeeManagement\\EmployeeManagement.DAL\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "EmployeeManagement.DAL\\Data\\AppDbContext.cs",
@@ -118,7 +109,46 @@
               "RelativeToolTip": "EmployeeManagement.DAL\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-01T11:44:41.64Z",
+              "WhenOpened": "2026-06-02T08:44:45.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\DesignPattern\\EmployeeManagement\\EmployeeManagement.DAL\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.DAL\\Repository\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\DesignPattern\\EmployeeManagement\\EmployeeManagement.DAL\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeManagement.DAL\\Repository\\EmployeeRepository.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T08:44:22.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeManagement.API",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\DesignPattern\\EmployeeManagement\\EmployeeManagement.API\\EmployeeManagement.API.csproj",
+              "RelativeDocumentMoniker": "EmployeeManagement.API\\EmployeeManagement.API.csproj",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\DesignPattern\\EmployeeManagement\\EmployeeManagement.API\\EmployeeManagement.API.csproj",
+              "RelativeToolTip": "EmployeeManagement.API\\EmployeeManagement.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-02T08:46:44.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\DesignPattern\\EmployeeManagement\\EmployeeManagement.DAL\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.DAL\\Model\\Employee.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\DesignPattern\\EmployeeManagement\\EmployeeManagement.DAL\\Model\\Employee.cs",
+              "RelativeToolTip": "EmployeeManagement.DAL\\Model\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T08:44:35.653Z",
               "EditorCaption": ""
             },
             {
@@ -129,73 +159,62 @@
               "RelativeDocumentMoniker": "EmployeeManagement.DAL\\Repository\\IEmployeeRepository.cs",
               "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\DesignPattern\\EmployeeManagement\\EmployeeManagement.DAL\\Repository\\IEmployeeRepository.cs",
               "RelativeToolTip": "EmployeeManagement.DAL\\Repository\\IEmployeeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-01T11:42:46.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\DesignPattern\\EmployeeManagement\\EmployeeManagement.API\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "EmployeeManagement.API\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\DesignPattern\\EmployeeManagement\\EmployeeManagement.API\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "EmployeeManagement.API\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-01T12:17:21.526Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\DesignPattern\\EmployeeManagement\\EmployeeManagement.DAL\\Model\\Employee.cs",
-              "RelativeDocumentMoniker": "EmployeeManagement.DAL\\Model\\Employee.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\DesignPattern\\EmployeeManagement\\EmployeeManagement.DAL\\Model\\Employee.cs",
-              "RelativeToolTip": "EmployeeManagement.DAL\\Model\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-01T11:41:47.211Z",
+              "WhenOpened": "2026-06-02T08:44:16.893Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "EmployeeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\DesignPattern\\EmployeeManagement\\EmployeeManagement.DAL\\Repository\\EmployeeRepository.cs",
-              "RelativeDocumentMoniker": "EmployeeManagement.DAL\\Repository\\EmployeeRepository.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\DesignPattern\\EmployeeManagement\\EmployeeManagement.DAL\\Repository\\EmployeeRepository.cs",
-              "RelativeToolTip": "EmployeeManagement.DAL\\Repository\\EmployeeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-01T11:52:50.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\DesignPattern\\EmployeeManagement\\EmployeeManagement.API\\appsettings.json",
-              "RelativeDocumentMoniker": "EmployeeManagement.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\DesignPattern\\EmployeeManagement\\EmployeeManagement.API\\appsettings.json",
-              "RelativeToolTip": "EmployeeManagement.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-01T12:37:17.089Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "IEmployeeServices.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\DesignPattern\\EmployeeManagement\\EmployeeManagement.DAL\\Services\\IEmployeeServices.cs",
               "RelativeDocumentMoniker": "EmployeeManagement.DAL\\Services\\IEmployeeServices.cs",
               "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\DesignPattern\\EmployeeManagement\\EmployeeManagement.DAL\\Services\\IEmployeeServices.cs",
               "RelativeToolTip": "EmployeeManagement.DAL\\Services\\IEmployeeServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-01T12:04:50.534Z"
+              "WhenOpened": "2026-06-02T08:43:58.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\DesignPattern\\EmployeeManagement\\EmployeeManagement.DAL\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.DAL\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\DesignPattern\\EmployeeManagement\\EmployeeManagement.DAL\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "EmployeeManagement.DAL\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T08:43:57.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\DesignPattern\\EmployeeManagement\\EmployeeManagement.Nunit.Test\\Service\\EmployeeServiceTest.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Nunit.Test\\Service\\EmployeeServiceTest.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\DesignPattern\\EmployeeManagement\\EmployeeManagement.Nunit.Test\\Service\\EmployeeServiceTest.cs",
+              "RelativeToolTip": "EmployeeManagement.Nunit.Test\\Service\\EmployeeServiceTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T04:51:13.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\DesignPattern\\EmployeeManagement\\EmployeeManamgement.Xunit.Test\\Services\\EmployeeServiceTest.cs",
+              "RelativeDocumentMoniker": "EmployeeManamgement.Xunit.Test\\Services\\EmployeeServiceTest.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\DesignPattern\\EmployeeManagement\\EmployeeManamgement.Xunit.Test\\Services\\EmployeeServiceTest.cs",
+              "RelativeToolTip": "EmployeeManamgement.Xunit.Test\\Services\\EmployeeServiceTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T13:13:23.688Z",
+              "EditorCaption": ""
             }
           ]
         }

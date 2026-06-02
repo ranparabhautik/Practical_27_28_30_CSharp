@@ -1,9 +1,6 @@
 ﻿using EmployeeManagement.DAL.Data;
 using EmployeeManagement.DAL.Model;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace EmployeeManagement.DAL.Repository;
 
