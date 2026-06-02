@@ -10,6 +10,10 @@ public class EmployeeService(IEmployeeRepository emprepo) : IEmployeeServices
 {
     public async Task<Employee> CreateEmployeeAsync(Employee employee)
     {
+        if(employee.Salary <= 0)
+        {
+            throw new Exception("Salary Cant be less than or equal to zero");
+        }
         return await emprepo.CreateAsync(employee);
     }
 

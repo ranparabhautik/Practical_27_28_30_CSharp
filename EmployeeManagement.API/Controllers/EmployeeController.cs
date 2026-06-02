@@ -1,6 +1,5 @@
 ﻿using EmployeeManagement.DAL.Model;
 using EmployeeManagement.DAL.Services;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace EmployeeManagement.API.Controllers;

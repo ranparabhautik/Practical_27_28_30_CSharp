@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="EmployeeManagement.API/EmployeeManagement.API.csproj" />
   <Project Path="EmployeeManagement.DAL/EmployeeManagement.DAL.csproj" />
+  <Project Path="EmployeeManagement.Nunit.Test/EmployeeManagement.Nunit.Test.csproj" Id="a0728de8-f7de-4f8f-8063-31446398ef86" />
   <Project Path="EmployeeManamgement.Xunit.Test/EmployeeManamgement.Xunit.Test.csproj" />
 </Solution>
